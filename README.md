@@ -1,15 +1,14 @@
 ### Hi there 👋 I am Suman Kumar Dey
 
-<!-- - 🔭 I’m currently working on {Dream Project} 🦸
+I'm a Developer specialized in FullStack and Android Development.
+
+I have a strong interest in building projects that are accessible to everyone and have a planned and meaningful aesthetic.
+
+Learning new things is my passion, I have an obsession for knowledge in general that drives me as much as I can in all fields of my interest.
+
 - 🌱 I’m currently learning everything 📚
 - 👯 I’m looking to collaborate on 💕
 - 🥅 2023 Goals: Learning everything in my way.🛫
-- 🤔 I’m looking for help 🪔
-- 💬 Ask me about programming ❓
-- ⚡ Fun fact: I love to draw pictures of nature 🎨 -->
-<!-- - 📫 How to reach me: 🔍 -->
-
----
 
 ### Connect with me:
 <!-- mail -->
