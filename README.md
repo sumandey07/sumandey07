@@ -51,8 +51,11 @@ Learning new things is my passion, I have an obsession for knowledge in general 
 </a>
 
 <br />
+<br />
 
-<a href="https://sumandey07.github.io/">https://sumandey07.github.io/</a>
+<a href="https://sumandey07.github.io/">
+  <img align="left" alt="Suman Kumar Dey | Medium" width="30px" src="https://ik.imagekit.io/suman67/new.png?updatedAt=1696245167054"/>
+</a>
 
 <br />
 
