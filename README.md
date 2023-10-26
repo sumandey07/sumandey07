@@ -53,9 +53,9 @@ Learning new things is my passion, I have an obsession for knowledge in general 
 <br />
 <br />
 
-<a href="https://sumandey07.github.io/">
+<!-- <a href="https://sumandey07.github.io/">
   <img align="left" alt="Suman Kumar Dey | Medium" width="30px" src="https://ik.imagekit.io/suman67/new.png?updatedAt=1696245167054"/>
-</a>
+</a> -->
 
 <br />
 
@@ -106,5 +106,4 @@ Learning new things is my passion, I have an obsession for knowledge in general 
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sumandey07&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sumandey07&layout=compact)
