@@ -7,7 +7,6 @@ I have a strong interest in building projects that are accessible to everyone an
 Learning new things is my passion, I have an obsession for knowledge in general that drives me as much as I can in all fields of my interest.
 
 - 🌱 I’m currently learning everything 📚
-- 👯 I’m looking to collaborate on 💕
 - 🥅 2023 Goals: Learning everything in my way.🛫
 
 ### Connect with me:
